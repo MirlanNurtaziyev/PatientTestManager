@@ -1,0 +1,17 @@
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\bin\Debug\net8.0\PatientTestManager.Services.deps.json
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\bin\Debug\net8.0\PatientTestManager.Services.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\bin\Debug\net8.0\PatientTestManager.Services.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\bin\Debug\net8.0\PatientTestManager.Data.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\bin\Debug\net8.0\PatientTestManager.Domain.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\bin\Debug\net8.0\PatientTestManager.Data.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\bin\Debug\net8.0\PatientTestManager.Domain.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientTestManager.Services.csproj.AssemblyReference.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientTestManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientTestManager.Services.AssemblyInfoInputs.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientTestManager.Services.AssemblyInfo.cs
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientTestManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientT.D709BBCF.Up2Date
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientTestManager.Services.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\refint\PatientTestManager.Services.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\PatientTestManager.Services.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Services\obj\Debug\net8.0\ref\PatientTestManager.Services.dll

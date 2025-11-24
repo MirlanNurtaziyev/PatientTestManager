@@ -1,0 +1,17 @@
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\bin\Debug\net8.0\PatientTestManager.Data.deps.json
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\bin\Debug\net8.0\PatientTestManager.Data.runtimeconfig.json
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\bin\Debug\net8.0\PatientTestManager.Data.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\bin\Debug\net8.0\PatientTestManager.Data.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\bin\Debug\net8.0\PatientTestManager.Domain.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\bin\Debug\net8.0\PatientTestManager.Domain.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.csproj.AssemblyReference.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.AssemblyInfoInputs.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.AssemblyInfo.cs
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientT.6DA1A307.Up2Date
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\refint\PatientTestManager.Data.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\PatientTestManager.Data.genruntimeconfig.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Data\obj\Debug\net8.0\ref\PatientTestManager.Data.dll

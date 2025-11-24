@@ -1,0 +1,11 @@
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\bin\Debug\net8.0\PatientTestManager.Domain.deps.json
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\bin\Debug\net8.0\PatientTestManager.Domain.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\bin\Debug\net8.0\PatientTestManager.Domain.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\PatientTestManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\PatientTestManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\PatientTestManager.Domain.AssemblyInfo.cs
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\PatientTestManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\PatientTestManager.Domain.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\refint\PatientTestManager.Domain.dll
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\PatientTestManager.Domain.pdb
+C:\Users\Mirlan_Nurtaziyev\Desktop\checker\PatientTestManager.Domain\obj\Debug\net8.0\ref\PatientTestManager.Domain.dll
